@@ -1,0 +1,12 @@
+# Datasets / binaries
+data/**/*.zip
+data/**/trnMat.pkl
+data/**/tstMat.pkl
+
+# Training artifacts
+saved_model/
+log/
+
+# Python
+__pycache__/
+*.pyc
